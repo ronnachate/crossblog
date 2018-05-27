@@ -1,0 +1,11 @@
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/bin/Debug/netcoreapp2.0/crossblog.deps.json
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/bin/Debug/netcoreapp2.0/crossblog.runtimeconfig.json
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/bin/Debug/netcoreapp2.0/crossblog.runtimeconfig.dev.json
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/bin/Debug/netcoreapp2.0/crossblog.dll
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/bin/Debug/netcoreapp2.0/crossblog.pdb
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/obj/Debug/netcoreapp2.0/crossblog.csprojResolveAssemblyReference.cache
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/obj/Debug/netcoreapp2.0/crossblog.csproj.CoreCompileInputs.cache
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/obj/Debug/netcoreapp2.0/crossblog.AssemblyInfoInputs.cache
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/obj/Debug/netcoreapp2.0/crossblog.AssemblyInfo.cs
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/obj/Debug/netcoreapp2.0/crossblog.dll
+/Users/ronnachate/Downloads/crossblogs-dotnet-sa/crossblog/obj/Debug/netcoreapp2.0/crossblog.pdb
