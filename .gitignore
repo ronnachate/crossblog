@@ -1,4 +1,5 @@
 .DS_Store
 .vscode/
 crossblog/obj/
+crossblog/bin/
 crossblog.tests/coverage.json
