@@ -63,9 +63,9 @@ namespace crossblog.Controllers
                 return NotFound();
             }
 
-            var comment = await _commentRepository.Query().FirstOrDefaultAsync(c => c.ArticleId == articleId && c.Id == id);
+            var comment = await _commentRepository.GetAsync(id);
 
-            if (comment == null)
+            if (comment == null || comment.ArticleId != articleId)
             {
                 return NotFound();
             }
